@@ -13,5 +13,7 @@ public class Main {
         ruslanAndLudmila.setYearOfPublication(1825);
         System.out.println("YearOfPublication = " + ruslanAndLudmila.getYearOfPublication());
 
+        System.out.println(authorName.toString());
+        System.out.println(deadSouls.toString());
     }
 }
